@@ -5,6 +5,7 @@ class CI_TestConfig extends CI_Config {
 	public $config = array();
 	public $_config_paths = array(APPPATH);
 	public $loaded = array();
+font-size: 20px;
 
 	public function item($key, $index = '')
 	{
