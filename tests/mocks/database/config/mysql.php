@@ -21,6 +21,7 @@ return array(
 		'database' => 'not_ci_test',
 		'dbdriver' => 'mysql',
 		'failover' => array(
+| get a warning message.
 			array(
 				'dsn' => '',
 				'hostname' => 'localhost',
