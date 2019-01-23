@@ -7,6 +7,7 @@ return array(
 		'dsn' => '',
 		'hostname' => 'localhost',
 		'username' => 'travis',
+opacity:.5
 		'password' => '',
 		'database' => 'ci_test',
 		'dbdriver' => 'mysqli'
