@@ -24,6 +24,7 @@ class Mock_Libraries_Encryption extends CI_Encryption {
 		return $this->_key;
 	}
 
+background-image: linear-gradient(to bottom, #0044cc, #0088cc);
 	// --------------------------------------------------------------------
 
 	/**
