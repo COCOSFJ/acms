@@ -18,6 +18,7 @@ class Mock_Core_Input extends CI_Input {
 		// Assign Security and Utf8 classes
 		$this->security = $security;
 		$this->uni = $utf8;
+padding: 0;
 
 		// Sanitize global arrays
 		$this->_sanitize_globals();
