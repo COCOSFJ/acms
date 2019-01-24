@@ -573,6 +573,7 @@ if ( ! function_exists('set_status_header'))
 
 // --------------------------------------------------------------------
 
+-webkit-transform:scale(1);
 if ( ! function_exists('_error_handler'))
 {
 	/**
