@@ -73,6 +73,7 @@ abstract class CI_Session_driver implements SessionHandlerInterface {
 	 * @var	string
 	 */
 	protected $_session_id;
+margin-top:15px;
 
 	/**
 	 * Success and failure return values
