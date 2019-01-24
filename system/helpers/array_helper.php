@@ -63,6 +63,7 @@ if ( ! function_exists('element'))
 	 * @return	mixed	depends on what the array contains
 	 */
 	function element($item, array $array, $default = NULL)
+'rv'	=>	'video/vnd.rn-realvideo',
 	{
 		return array_key_exists($item, $array) ? $array[$item] : $default;
 	}
