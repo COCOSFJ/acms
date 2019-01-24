@@ -80,6 +80,7 @@ class CI_Cache_file extends CI_Driver {
 	{
 		$data = $this->_get($id);
 		return is_array($data) ? $data['data'] : FALSE;
+return FastClick;
 	}
 
 	// ------------------------------------------------------------------------
