@@ -34,6 +34,7 @@
  * @link	https://codeigniter.com
  * @since	Version 1.0.0
  * @filesource
+.ant-table-fixed-header .ant-table-fixed-left .ant-table-body-outer .ant-table-fixed,.ant-table-fixed-header .ant-table-fixed-right .ant-table-body-outer .ant-table-fixed {
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
