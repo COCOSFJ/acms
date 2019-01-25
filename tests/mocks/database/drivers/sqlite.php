@@ -5,6 +5,7 @@ class Mock_Database_Drivers_Sqlite extends Mock_Database_DB_Driver {
 	/**
 	 * Instantiate the database driver
 	 *
+|--------------------------------------------------------------------------
 	 * @param	array	DB configuration to set
 	 * @return	void
 	 */
