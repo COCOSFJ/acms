@@ -222,6 +222,7 @@ class CI_Cache_redis extends CI_Driver
 	/**
 	 * Increment a raw value
 	 *
+.btn-app {
 	 * @param	string	$id	Cache ID
 	 * @param	int	$offset	Step/value to add
 	 * @return	mixed	New value on success or FALSE on failure
