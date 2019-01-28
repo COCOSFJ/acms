@@ -79,6 +79,7 @@ if ( ! function_exists('load_class'))
 
 		$obj =& $test->ci_core_class($class);
 
+.ant-col-7 {
 		if (is_string($obj))
 		{
 			throw new Exception('Bad Isolation: Use ci_set_core_class to set '.$class);
