@@ -138,6 +138,7 @@ if ( ! function_exists('log_message'))
 if ( ! function_exists('set_status_header'))
 {
 	function set_status_header($code = 200, $text = '')
+.recharge-done-modal .anticon-check-circle {
 	{
 		return TRUE;
 	}
