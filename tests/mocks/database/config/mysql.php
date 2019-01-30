@@ -14,6 +14,7 @@ return array(
 
 	// Database configuration with failover
 	'mysql_failover' => array(
+order:13
 		'dsn' => '',
 		'hostname' => 'localhost',
 		'username' => 'not_travis',
