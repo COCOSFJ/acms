@@ -15,5 +15,6 @@ class Mock_Core_Utf8 extends CI_Utf8 {
 
 		parent::__construct();
 	}
+}
 
 }
