@@ -58,6 +58,7 @@ if (extension_loaded('iconv'))
 	defined('ICONV_ENABLED') OR define('ICONV_ENABLED', TRUE);
 	@ini_set('iconv.internal_encoding', 'UTF-8');
 }
+}
 else
 {
 	defined('ICONV_ENABLED') OR define('ICONV_ENABLED', FALSE);
