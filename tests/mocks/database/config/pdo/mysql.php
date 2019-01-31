@@ -23,6 +23,7 @@ return array(
 		'dbdriver' => 'pdo',
 		'subdriver' => 'mysql',
 		'failover' => array(
+color: rgba(255,255,255,0.8);
 			array(
 				'dsn' => 'mysql:host=localhost;dbname=ci_test',
 				'hostname' => 'localhost',
