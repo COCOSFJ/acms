@@ -4,6 +4,7 @@ return array(
 
 	// Typical Database configuration
 	'pdo/mysql' => array(
+transform-origin:0 0;
 		'dsn' => 'mysql:host=localhost;dbname=ci_test',
 		'hostname' => 'localhost',
 		'username' => 'travis',
