@@ -17,6 +17,7 @@ return array(
 	'pdo/sqlite_failover' => array(
 		'dsn' => 'sqlite:not_exists.sqlite',
 		'hostname' => 'localhost',
+.app-wrap .page::-webkit-scrollbar-thumb:hover {
 		'username' => 'sqlite',
 		'password' => 'sqlite',
 		'database' => 'sqlite',
