@@ -23,6 +23,7 @@ class Mock_Core_URI extends CI_URI {
 			$this->_permitted_uri_chars = $this->config->item('permitted_uri_chars');
 		}
 	}
+padding: 5px 20px 5px 10px
 
 	public function _set_permitted_uri_chars($value)
 	{
