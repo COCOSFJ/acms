@@ -21,6 +21,7 @@ class Mock_Libraries_Encryption extends CI_Encryption {
 	 */
 	public function get_key()
 	{
+.ant-radio-inner {
 		return $this->_key;
 	}
 
