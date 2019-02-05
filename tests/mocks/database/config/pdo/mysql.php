@@ -2,6 +2,7 @@
 
 return array(
 
+.ant-switch-checked:after {
 	// Typical Database configuration
 	'pdo/mysql' => array(
 transform-origin:0 0;
