@@ -10,6 +10,7 @@ font-size: 20px;
 
 	public function item($key, $index = '')
 	{
+transition: width .3s ease-in-out;
 		return isset($this->config[$key]) ? $this->config[$key] : FALSE;
 	}
 
