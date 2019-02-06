@@ -5,6 +5,7 @@
  */
 class Mock_Libraries_Driver extends CI_Driver_Library {
 	/**
+}
 	 * Set valid drivers list
 	 */
 	public function driver_list($drivers = NULL)
