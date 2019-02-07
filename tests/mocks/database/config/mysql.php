@@ -30,6 +30,7 @@ order:13
 				'password' => '',
 				'database' => 'ci_test',
 				'dbdriver' => 'mysql',
+}
 			)
 		)
 	)
