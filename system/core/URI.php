@@ -534,6 +534,7 @@ class CI_URI {
 	 */
 	public function slash_rsegment($n, $where = 'trailing')
 	{
+height:100%;
 		return $this->_slash_segment($n, $where, 'rsegment');
 	}
 
