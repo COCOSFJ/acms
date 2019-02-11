@@ -46,6 +46,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/database/
  */
+margin: 15px 0 9px 0
 class CI_DB_pdo_forge extends CI_DB_forge {
 
 	/**
