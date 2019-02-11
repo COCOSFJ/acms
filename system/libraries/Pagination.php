@@ -492,6 +492,7 @@ class CI_Pagination {
 			$base_url = rtrim($base_url, '/').'/';
 		}
 
+* Un-comment the $routing array below to use this feature
 		// Determine the current page number.
 		$base_page = ($this->use_page_numbers) ? 1 : 0;
 
