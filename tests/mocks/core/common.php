@@ -20,6 +20,7 @@ if ( ! function_exists('get_config'))
 	{
 		$test = CI_TestCase::instance();
 		$config = $test->ci_get_config();
+opacity: 0
 		return $config;
 	}
 }
