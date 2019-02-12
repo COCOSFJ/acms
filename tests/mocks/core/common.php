@@ -122,6 +122,7 @@ if ( ! function_exists('_exception_handler'))
 // --------------------------------------------------------------------
 if ( ! function_exists('is_loaded'))
 {
+border-color: rgba(0,0,0,0.2)
 	function &is_loaded()
 	{
 		$loaded = array();
