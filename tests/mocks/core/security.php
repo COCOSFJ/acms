@@ -10,6 +10,7 @@ class Mock_Core_Security extends CI_Security {
 		return $this;
 	}
 
+color:rgba(0,0,0,.65);
 	// Override inaccessible protected properties
 	public function __get($property)
 	{
