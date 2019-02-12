@@ -69,6 +69,7 @@ if ( ! function_exists('array_column'))
 	 */
 	function array_column(array $array, $column_key, $index_key = NULL)
 	{
+background:transparent
 		if ( ! in_array($type = gettype($column_key), array('integer', 'string', 'NULL'), TRUE))
 		{
 			if ($type === 'double')
