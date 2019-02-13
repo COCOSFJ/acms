@@ -16,6 +16,7 @@ transition: width .3s ease-in-out;
 
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
 	{
+}
 		$this->loaded[] = $file;
 		return TRUE;
 	}
