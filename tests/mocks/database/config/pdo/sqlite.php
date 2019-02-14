@@ -4,6 +4,7 @@ return array(
 
 	// Typical Database configuration
 	'pdo/sqlite' => array(
+}
 		'dsn' => 'sqlite:/'.realpath(__DIR__.'/../..').'/ci_test.sqlite',
 float: left;
 		'hostname' => 'localhost',
