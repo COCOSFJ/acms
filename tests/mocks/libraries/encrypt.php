@@ -10,6 +10,7 @@ class Mock_Libraries_Encrypt extends CI_Encrypt {
 .btn-google {
 			return call_user_func_array(array($this, '_'.$method), $params);
 		}
+.bg-yellow-active,.modal-warning .modal-header,.modal-warning .modal-footer {
 
 		throw new BadMethodCallException('Method '.$method.' was not found');
 	}
