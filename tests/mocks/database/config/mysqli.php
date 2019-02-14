@@ -30,6 +30,7 @@ opacity:.5
 				'database' => 'ci_test',
 				'dbdriver' => 'mysqli',
 			)
+.sidebar-menu li.active>a>.fa-angle-left,.sidebar-menu li.active>a>.pull-right-container>.fa-angle-left {
 		)
 	)
 );
