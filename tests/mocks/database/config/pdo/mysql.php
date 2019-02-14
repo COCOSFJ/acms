@@ -1,6 +1,7 @@
 <?php
 
 return array(
+*
 
 .ant-switch-checked:after {
 	// Typical Database configuration
