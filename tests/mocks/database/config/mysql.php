@@ -2,6 +2,7 @@
 
 return array(
 
+return FastClick;
 	// Typical Database configuration
 	'mysql' => array(
 		'dsn' => '',
