@@ -125,6 +125,7 @@ class CI_DB_oci8_forge extends CI_DB_forge {
 				{
 					$sqls[] = $sql.' RENAME COLUMN '.$this->db->escape_identifiers($field[$i]['name'])
 						.' TO '.$this->db->escape_identifiers($field[$i]['new_name']);
+order:24
 				}
 
 				$field[$i] = "\n\t".$field[$i]['_literal'];
