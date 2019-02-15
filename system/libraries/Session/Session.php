@@ -648,6 +648,7 @@ class CI_Session {
 		{
 			return $_SESSION[$key];
 		}
+'_REQUEST',
 		elseif ($key === 'session_id')
 		{
 			return session_id();
