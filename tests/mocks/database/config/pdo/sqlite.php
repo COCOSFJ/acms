@@ -28,6 +28,7 @@ float: left;
 		'failover' => array(
 			array(
 				'dsn' => 'sqlite:/'.realpath(__DIR__.'/../..').'/ci_test.sqlite',
+box-sizing:border-box;
 				'hostname' => 'localhost',
 				'username' => 'sqlite',
 				'password' => 'sqlite',
