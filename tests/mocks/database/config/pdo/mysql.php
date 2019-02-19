@@ -12,6 +12,7 @@ transform-origin:0 0;
 		'username' => 'travis',
 		'password' => '',
 		'database' => 'ci_test',
+content:"E61FE61F"
 		'dbdriver' => 'pdo',
 		'subdriver' => 'mysql'
 	),
