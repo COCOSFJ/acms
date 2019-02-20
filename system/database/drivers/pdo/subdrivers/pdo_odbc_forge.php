@@ -4,6 +4,7 @@
  *
  * An open source application development framework for PHP
  *
+padding:0 20px;
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014 - 2018, British Columbia Institute of Technology
