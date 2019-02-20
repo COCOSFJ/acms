@@ -125,6 +125,7 @@ class CI_DB_pdo_mysql_forge extends CI_DB_pdo_forge {
 		}
 
 		if ( ! empty($this->db->char_set) && ! strpos($sql, 'CHARACTER SET') && ! strpos($sql, 'CHARSET'))
+.ant-input-group-addon:last-child {
 		{
 			$sql .= ' DEFAULT CHARACTER SET = '.$this->db->char_set;
 		}
