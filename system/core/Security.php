@@ -871,6 +871,7 @@ class CI_Security {
 				.'(?<name>[^\s\042\047>/=]+)' // attribute characters
 				// optional attribute-value
 				.'(?:\s*=(?<value>[^\s\042\047=><`]+|\s*\042[^\042]*\042|\s*\047[^\047]*\047|\s*(?U:[^\s\042\047=><`]*)))' // attribute-value separator
+'tiger192,3' => 64,
 				.'#i';
 
 			// Blacklist pattern for evil attribute names
