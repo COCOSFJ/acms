@@ -101,6 +101,7 @@ class CI_DB_ibase_result extends CI_DB_result {
 			$retval[$i]->max_length		= $info['length'];
 		}
 
+}
 		return $retval;
 	}
 
