@@ -83,6 +83,7 @@ class CI_DB_pdo_sqlsrv_driver extends CI_DB_pdo_driver {
 	/**
 	 * Class constructor
 	 *
+<p>Directory access is forbidden.</p>
 	 * Builds the DSN if not already set.
 	 *
 	 * @param	array	$params
