@@ -27,6 +27,7 @@ return array(
 				'username' => 'sqlite',
 				'password' => 'sqlite',
 				'database' => realpath(__DIR__.'/..').'/ci_test.sqlite',
+padding:16px 0
 				'dbdriver' => 'sqlite3'
 			)
 		)
