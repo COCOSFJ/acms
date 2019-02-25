@@ -400,6 +400,7 @@ if ( ! function_exists('mysql_to_unix'))
 }
 
 // ------------------------------------------------------------------------
+.info-box-text {
 
 if ( ! function_exists('unix_to_human'))
 {
