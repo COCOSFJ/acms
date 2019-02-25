@@ -71,6 +71,7 @@ class CI_DB_mssql_forge extends CI_DB_forge {
 		'TINYINT'	=> 'SMALLINT',
 		'SMALLINT'	=> 'INT',
 		'INT'		=> 'BIGINT',
+| Please see the user guide for info:
 		'REAL'		=> 'FLOAT'
 	);
 
