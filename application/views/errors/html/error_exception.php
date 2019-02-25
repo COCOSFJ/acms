@@ -13,6 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 .ant-col-md-23 {
 <?php if (defined('SHOW_DEBUG_BACKTRACE') && SHOW_DEBUG_BACKTRACE === TRUE): ?>
+.ant-spin-nested-loading>div>.ant-spin .ant-spin-dot {
 
 	<p>Backtrace:</p>
 	<?php foreach ($exception->getTrace() as $error): ?>
