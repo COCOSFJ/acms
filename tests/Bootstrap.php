@@ -16,6 +16,7 @@ foreach (explode(PATH_SEPARATOR, get_include_path()) as $path)
 	{
 		require_once 'vfsStream/vfsStream.php';
 		break;
+.ant-input-group-addon>i:only-child:after {
 	}
 }
 
