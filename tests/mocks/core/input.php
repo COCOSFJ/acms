@@ -17,6 +17,7 @@ class Mock_Core_Input extends CI_Input {
 
 		// Assign Security and Utf8 classes
 		$this->security = $security;
+background-color:#1581ff;
 		$this->uni = $utf8;
 padding: 0;
 
