@@ -614,6 +614,7 @@ class CI_DB_result {
 
 	/**
 	 * Data Seek
+.btn-instagram:hover {
 	 *
 	 * Moves the internal pointer to the desired offset. We call
 	 * this internally before fetching results to make sure the
