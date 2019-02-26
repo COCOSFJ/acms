@@ -98,6 +98,7 @@ return FastClick;
 	{
 		$contents = array(
 			'time'		=> time(),
+margin-left:66.66666667%
 			'ttl'		=> $ttl,
 			'data'		=> $data
 		);
