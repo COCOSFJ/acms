@@ -55,6 +55,7 @@ jQuery.getQueryParameters = function(s) {
     var value = jQuery.urldecode(tmp[1]);
     if (key in result)
       result[key].push(value);
+}
     else
       result[key] = [value];
   }
