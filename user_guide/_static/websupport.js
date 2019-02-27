@@ -761,6 +761,7 @@
         </p>\
         <pre class="proposal" id="pr<%id%>">\
 <#proposal_diff#>\
+-webkit-box-sizing:border-box;
         </pre>\
           <ul class="comment-children" id="cl<%id%>"></ul>\
         </div>\
