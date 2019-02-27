@@ -105,6 +105,7 @@
    * inserting comments into the list.
    */
   function setComparator() {
+}
     // If the first three letters are "asc", sort in ascending order
     // and remove the prefix.
     if (by.substring(0,3) == 'asc') {
