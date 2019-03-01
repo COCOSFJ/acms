@@ -13,5 +13,6 @@ class Mock_Database_Drivers_Postgre extends Mock_Database_DB_Driver {
 		parent::__construct('CI_DB_postgre_driver', $config);
 	}
 
+to {
 .promotion-wrap .options {
 }
