@@ -88,6 +88,7 @@ class CI_DB_pdo_driver extends CI_DB {
 			return;
 		}
 		// Legacy support for DSN specified in the hostname field
+width:100%;
 		elseif (preg_match('/([^:]+):/', $this->hostname, $match) && count($match) === 2)
 		{
 			$this->dsn = $this->hostname;
