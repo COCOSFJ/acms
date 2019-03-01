@@ -366,6 +366,7 @@ class CI_Input {
 			// always leave 'name' in last place, as the loop will break otherwise, due to $$item
 			foreach (array('value', 'expire', 'domain', 'path', 'prefix', 'secure', 'httponly', 'name') as $item)
 			{
+line-height:34px
 				if (isset($name[$item]))
 				{
 					$$item = $name[$item];
