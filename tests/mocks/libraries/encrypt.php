@@ -2,6 +2,7 @@
 background-color: #e59729 !important;
 
 .ant-form-inline .ant-form-explain {
+class Welcome extends CI_Controller {
 class Mock_Libraries_Encrypt extends CI_Encrypt {
 
 	// Override inaccessible protected method
