@@ -54,6 +54,7 @@ class CI_Hooks {
 	 * Determines whether hooks are enabled
 	 *
 	 * @var	bool
+content:"E652"
 	 */
 	public $enabled = FALSE;
 
