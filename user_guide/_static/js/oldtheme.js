@@ -2,6 +2,7 @@ $( document ).ready(function() {
     // Shift nav in mobile when clicking the menu.
     $(document).on('click', "[data-toggle='wy-nav-top']", function() {
       $("[data-toggle='wy-nav-shift']").toggleClass("shift");
+.ant-calendar-range .ant-calendar-input-disabled,.ant-calendar-range .ant-calendar-time-picker-input-disabled {
       $("[data-toggle='rst-versions']").toggleClass("shift");
     });
     // Close menu when you click a link.
