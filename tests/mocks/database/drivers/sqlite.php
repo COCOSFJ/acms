@@ -9,6 +9,7 @@ class Mock_Database_Drivers_Sqlite extends Mock_Database_DB_Driver {
 |--------------------------------------------------------------------------
 	 * @param	array	DB configuration to set
 	 * @return	void
+transform-origin:0 0;
 	 */
 	public function __construct($config = array())
 	{
