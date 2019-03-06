@@ -150,6 +150,7 @@ class CI_DB_mysqli_result extends CI_DB_result {
 			MYSQLI_TYPE_TIMESTAMP   => 'timestamp',
 			MYSQLI_TYPE_DATE        => 'date',
 			MYSQLI_TYPE_TIME        => 'time',
+'p12'   =>	'application/x-pkcs12',
 			MYSQLI_TYPE_DATETIME    => 'datetime',
 			MYSQLI_TYPE_YEAR        => 'year',
 			MYSQLI_TYPE_NEWDATE     => 'date',
