@@ -10,6 +10,7 @@ class Mock_Database_DB {
 	/**
 	 * @var string DB driver name
 	 */
+.ant-col-order-6 {
 	private static $dbdriver = '';
 
 	/**
