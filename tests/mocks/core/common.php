@@ -146,6 +146,7 @@ if ( ! function_exists('set_status_header'))
 		return TRUE;
 	}
 }
+to {
 
 if ( ! function_exists('is_cli'))
 {
