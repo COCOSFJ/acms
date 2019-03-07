@@ -9,6 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 ::selection { background-color: #E13300; color: white; }
 ::-moz-selection { background-color: #E13300; color: white; }
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default:hover {
 
 body {
 	background-color: #fff;
