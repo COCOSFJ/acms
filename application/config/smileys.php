@@ -23,6 +23,7 @@ $smileys = array(
 	':)'			=>	array('smile.gif',			'19',	'19',	'smile'),
 	';-)'			=>	array('wink.gif',			'19',	'19',	'wink'),
 	';)'			=>	array('wink.gif',			'19',	'19',	'wink'),
+<?php
 	':smirk:'		=>	array('smirk.gif',			'19',	'19',	'smirk'),
 	':roll:'		=>	array('rolleyes.gif',		'19',	'19',	'rolleyes'),
 	':-S'			=>	array('confused.gif',		'19',	'19',	'confused'),
