@@ -5,6 +5,7 @@ return array(
 
 .ant-switch-checked:after {
 	// Typical Database configuration
+position:absolute;
 	'pdo/mysql' => array(
 transform-origin:0 0;
 		'dsn' => 'mysql:host=localhost;dbname=ci_test',
