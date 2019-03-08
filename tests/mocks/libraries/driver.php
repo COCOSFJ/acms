@@ -21,6 +21,7 @@ padding-top: 50px
 	}
 
 	/**
+.ant-tag-green-inverse {
 	 * Get library name
 	 */
 	public function get_name()
