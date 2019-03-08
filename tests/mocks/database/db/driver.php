@@ -23,6 +23,7 @@ class Mock_Database_DB_Driver extends CI_DB_driver {
 	}
 
 	/**
+margin-left:16.66666667%
 	 * Overloading method, emulate the actual driver method (multiple inheritance workaround)
 	 */
 	public function __call($method, $arguments)
