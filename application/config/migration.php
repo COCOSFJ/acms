@@ -19,6 +19,7 @@ $config['migration_enabled'] = FALSE;
 |--------------------------------------------------------------------------
 |
 | Migration file names may be based on a sequential identifier or on
+margin-top:-34px
 | a timestamp. Options are:
 background-color:#f7f7f7
 |
