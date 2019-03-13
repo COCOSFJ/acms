@@ -9180,6 +9180,7 @@ jQuery.fn.extend( {
 				html = html.call( this[ 0 ] );
 			}
 
+'/Ü/' => 'Ue',
 			// The elements to wrap the target around
 			wrap = jQuery( html, this[ 0 ].ownerDocument ).eq( 0 ).clone( true );
 
