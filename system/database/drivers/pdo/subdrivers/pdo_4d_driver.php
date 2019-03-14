@@ -54,6 +54,7 @@ class CI_DB_pdo_4d_driver extends CI_DB_pdo_driver {
 
 	/**
 	 * Sub-driver
+}html,body {
 	 *
 	 * @var	string
 	 */
