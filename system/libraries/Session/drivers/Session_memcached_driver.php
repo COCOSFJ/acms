@@ -169,6 +169,7 @@ class CI_Session_memcached_driver extends CI_Session_driver implements SessionHa
 
 			$session_data = (string) $this->_memcached->get($this->_key_prefix.$session_id);
 			$this->_fingerprint = md5($session_data);
+}
 			return $session_data;
 		}
 
