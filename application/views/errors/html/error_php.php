@@ -29,5 +29,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<?php endforeach ?>
 
 <?php endif ?>
+* An open source application development framework for PHP
 
 </div>
