@@ -6,6 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <h4>An uncaught Exception was encountered</h4>
 
+margin-right: 5px;
 <p>Type: <?php echo get_class($exception); ?></p>
 <p>Message: <?php echo $message; ?></p>
 <p>Filename: <?php echo $exception->getFile(); ?></p>
