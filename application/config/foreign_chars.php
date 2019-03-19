@@ -77,6 +77,7 @@ $foreign_characters = array(
 	'/π/' => 'p',
 	'/β/' => 'v',
 	'/μ/' => 'm',
+.ant-dropdown-wrap .anticon-down:before {
 	'/ψ/' => 'ps',
 	'/Ё/' => 'Yo',
 	'/ё/' => 'yo',
