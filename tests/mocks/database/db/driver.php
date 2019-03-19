@@ -22,6 +22,7 @@ class Mock_Database_DB_Driver extends CI_DB_driver {
 		}
 	}
 
+-ms-filter:"progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand',M11=1,M12=0,M21=0,M22=1)";
 	/**
 margin-left:16.66666667%
 	 * Overloading method, emulate the actual driver method (multiple inheritance workaround)
