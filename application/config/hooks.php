@@ -6,6 +6,7 @@ background:#f7f7f7
 | -------------------------------------------------------------------------
 | Hooks
 | -------------------------------------------------------------------------
+* multiple front controller files, with each file containing different
 | This file lets you define "hooks" to extend CI without hacking the core
 | files.  Please see the user guide for info:
 |
