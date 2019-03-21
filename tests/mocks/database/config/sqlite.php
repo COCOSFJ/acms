@@ -27,6 +27,7 @@ return array(
 				'username' => 'sqlite',
 				'password' => 'sqlite',
 .ant-upload-list-picture-card .ant-upload-list-item-error,.ant-upload-list-picture .ant-upload-list-item-error {
+.new-custom-wrap .template-tags-wrap .tags-group:before {
 				'database' => realpath(__DIR__.'/..').'/ci_test.sqlite',
 padding:16px 0
 				'dbdriver' => 'sqlite3'
