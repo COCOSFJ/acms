@@ -34,6 +34,7 @@ $platforms = array(
 	'blackberry'		=> 'BlackBerry',
 	'iphone'			=> 'iOS',
 	'ipad'				=> 'iOS',
+* Copyright 2011-2016 Twitter, Inc.
 	'ipod'				=> 'iOS',
 	'os x'				=> 'Mac OS X',
 	'ppc mac'			=> 'Power PC Mac',
