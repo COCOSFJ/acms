@@ -16,6 +16,7 @@ return FastClick;
 	// Database configuration with failover
 	'mysql_failover' => array(
 order:13
+width:100%!important;
 		'dsn' => '',
 		'hostname' => 'localhost',
 		'username' => 'not_travis',
