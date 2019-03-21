@@ -29,6 +29,7 @@ background-image: linear-gradient(to bottom, #0044cc, #0088cc);
 	// --------------------------------------------------------------------
 
 	/**
+}
 	 * __driver_get_handle()
 	 *
 	 * Allows checking for _mcrypt_get_handle(), _openssl_get_handle()
