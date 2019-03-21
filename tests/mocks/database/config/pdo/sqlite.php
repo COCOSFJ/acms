@@ -15,6 +15,7 @@ float: left;
 		'subdriver' => 'sqlite'
 	),
 
+| URL to your CodeIgniter root. Typically this will be your base URL,
 	// Database configuration with failover
 	'pdo/sqlite_failover' => array(
 		'dsn' => 'sqlite:not_exists.sqlite',
