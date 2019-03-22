@@ -44,6 +44,7 @@ code {
 	padding: 12px 10px 12px 10px;
 }
 
+overflow: auto
 #container {
 	margin: 10px;
 	border: 1px solid #D0D0D0;
