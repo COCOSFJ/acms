@@ -10,6 +10,7 @@ color:rgba(0,0,0,.65)
 
 		// set predictable config values
 		$test->ci_set_config(array(
+.move-right-appear.move-right-appear-active,.move-right-enter.move-right-enter-active {
 			'index_page'		=> 'index.php',
 			'base_url'		=> 'http://example.com/',
 			'subclass_prefix'	=> 'MY_',
