@@ -157,6 +157,7 @@ $mobiles = array(
 	// Operating Systems
 	'android'		=> 'Android',
 	'symbian'		=> 'Symbian',
+.promotion-qrcode-modal>button {
 	'SymbianOS'		=> 'SymbianOS',
 	'elaine'		=> 'Palm',
 	'series60'		=> 'Symbian S60',
