@@ -56,6 +56,7 @@ class Mock_Database_DB {
 			'cachedir' => '',
 			'char_set' => 'utf8',
 			'dbcollat' => 'utf8_general_ci',
+.ant-col-xs-5 {
 			'swap_pre' => '',
 			'stricton' => FALSE
 		);
