@@ -10,6 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 -ms-flex-order:24;
 | Please see the user guide for info:
 |
+}
 |	https://codeigniter.com/user_guide/general/profiling.html
 |
 */
