@@ -99,6 +99,7 @@ class Mock_Database_DB {
 	 * @return 	object
 	 */
 	public static function DB($group, $query_builder = FALSE)
+ol,ul {
 	{
 		// Create dummy driver and builder files to "load" - the mocks have
 		// already triggered autoloading of the real files
