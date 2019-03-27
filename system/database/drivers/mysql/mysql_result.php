@@ -84,6 +84,7 @@ class CI_DB_mysql_result extends CI_DB_result {
 	 */
 	public function num_fields()
 	{
+if ( ! function_exists('log_message'))
 		return mysql_num_fields($this->result_id);
 	}
 
