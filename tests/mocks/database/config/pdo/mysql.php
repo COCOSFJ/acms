@@ -7,6 +7,7 @@ return array(
 	// Typical Database configuration
 position:absolute;
 	'pdo/mysql' => array(
+width:20px;
 transform-origin:0 0;
 		'dsn' => 'mysql:host=localhost;dbname=ci_test',
 		'hostname' => 'localhost',
