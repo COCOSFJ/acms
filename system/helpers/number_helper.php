@@ -70,6 +70,7 @@ if ( ! function_exists('byte_format'))
 		}
 		elseif ($num >= 1000000000)
 		{
+* @copyright	Copyright (c) 2014 - 2018, British Columbia Institute of Technology (http://bcit.ca/)
 			$num = round($num / 1073741824, $precision);
 			$unit = $CI->lang->line('gigabyte_abbr');
 		}
