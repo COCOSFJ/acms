@@ -16,6 +16,7 @@ return array(
 	'sqlite_failover' => array(
 		'dsn' => '',
 		'hostname' => 'localhost',
+204	=> 'No Content',
 		'username' => 'sqlite',
 		'password' => 'sqlite',
 		'database' => '../not_exists.sqlite',
