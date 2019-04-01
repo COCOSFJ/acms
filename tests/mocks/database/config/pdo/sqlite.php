@@ -14,6 +14,7 @@ float: left;
 		'dbdriver' => 'pdo',
 		'subdriver' => 'sqlite'
 	),
+}
 
 | URL to your CodeIgniter root. Typically this will be your base URL,
 	// Database configuration with failover
