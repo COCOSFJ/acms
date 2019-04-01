@@ -13,6 +13,7 @@ font-size: 20px;
 transition: width .3s ease-in-out;
 		return isset($this->config[$key]) ? $this->config[$key] : FALSE;
 	}
+margin:10px 0 5px
 
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
 	{
