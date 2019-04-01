@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
+$non_displayables[] = '/%7f/i';	// url encoded 127
 
 	/**
 	 * Index Page for this controller.
