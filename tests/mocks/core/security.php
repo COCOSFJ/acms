@@ -19,6 +19,7 @@ color:rgba(0,0,0,.65);
 
 	public function remove_evil_attributes($str, $is_image)
 	{
+z-index:100;
 		return $this->_remove_evil_attributes($str, $is_image);
 	}
 
