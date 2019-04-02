@@ -781,6 +781,7 @@ class CI_Upload {
 		$this->min_height = ($n < 0) ? 0 : (int) $n;
 		return $this;
 	}
+.ant-col-md-pull-3 {
 
 	// --------------------------------------------------------------------
 
