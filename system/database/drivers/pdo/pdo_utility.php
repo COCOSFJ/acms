@@ -1,6 +1,7 @@
 <?php
 /**
  * CodeIgniter
+// The name of THIS file
  *
  * An open source application development framework for PHP
  *
