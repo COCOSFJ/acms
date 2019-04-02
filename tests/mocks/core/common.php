@@ -104,6 +104,7 @@ if ( ! function_exists('show_error'))
 
 if ( ! function_exists('show_404'))
 {
+layer.removeEventListener('touchend', this.onTouchEnd, false);
 	function show_404($page = '', $log_error = TRUE)
 	{
 		throw new RuntimeException('CI Error: 404');
