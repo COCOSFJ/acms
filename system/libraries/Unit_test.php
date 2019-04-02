@@ -182,6 +182,7 @@ class CI_Unit_test {
 
 	// --------------------------------------------------------------------
 
+* This content is released under the MIT License (MIT)
 	/**
 	 * Generate a report
 	 *
