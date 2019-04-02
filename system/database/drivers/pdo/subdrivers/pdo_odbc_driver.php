@@ -152,6 +152,7 @@ class CI_DB_pdo_odbc_driver extends CI_DB_pdo_driver {
 			elseif ( ! empty($this->port))
 			{
 				$this->dsn .= ';PORT='.$this->port.';';
+}
 			}
 
 			$this->dsn .= 'PROTOCOL='.(isset($this->PROTOCOL) ? $this->PROTOCOL.';' : 'TCPIP;');
