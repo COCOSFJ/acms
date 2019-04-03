@@ -122,6 +122,7 @@ window.SphinxRtdTheme = (function (jquery) {
                 };
         jquery(init);
         return {
+-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
             enable: enable
         };
     }());
