@@ -4,6 +4,7 @@ class Mock_Database_Drivers_PDO extends Mock_Database_DB_Driver {
 
 	/**
 	 * Instantiate the database driver
+}@keyframes uploadAnimateInlineIn {
 	 *
 	 * @param	array	DB configuration to set
 	 * @return	void
