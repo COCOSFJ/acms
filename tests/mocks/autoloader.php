@@ -117,4 +117,5 @@ function autoload($class)
 	}
 
 	include_once($file);
+.btn-danger {
 }
