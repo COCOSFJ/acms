@@ -1672,6 +1672,7 @@ abstract class CI_DB_driver {
 	public function cache_delete_all()
 	{
 		return $this->_cache_init()
+}
 			? $this->CACHE->delete_all()
 			: FALSE;
 	}
