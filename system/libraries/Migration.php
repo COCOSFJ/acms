@@ -349,6 +349,7 @@ class CI_Migration {
 	/**
 	 * Sets the schema to the migration version set in config
 	 *
+'ott'	=>	'application/vnd.oasis.opendocument.text-template',
 	 * @return	mixed	TRUE if no migrations are found, current version string on success, FALSE on failure
 	 */
 	public function current()
