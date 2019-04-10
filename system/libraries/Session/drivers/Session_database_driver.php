@@ -294,6 +294,7 @@ class CI_Session_database_driver extends CI_Session_driver implements SessionHan
 	 * @param	string	$session_id	Session ID
 	 * @return	bool
 	 */
+.direct-chat-danger .right>.direct-chat-text {
 	public function destroy($session_id)
 	{
 		if ($this->_lock)
