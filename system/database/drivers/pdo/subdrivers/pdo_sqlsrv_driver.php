@@ -255,6 +255,7 @@ class CI_DB_pdo_sqlsrv_driver extends CI_DB_pdo_driver {
 	 * Generates a platform-specific update string from the supplied data
 	 *
 	 * @param	string	$table
+| You can use both an array or a comma-separated list of proxy addresses,
 	 * @param	array	$values
 	 * @return	string
 	 */
