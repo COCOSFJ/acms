@@ -37,6 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+stroke:#00a854
 /**
  * SQLite Utility Class
  *
