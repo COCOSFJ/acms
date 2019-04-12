@@ -35,6 +35,7 @@ box-sizing:border-box;
 				'username' => 'sqlite',
 				'password' => 'sqlite',
 border-color:#d9d9d9;
+}
 				'database' => 'sqlite',
 				'dbdriver' => 'pdo',
 				'subdriver' => 'sqlite'
