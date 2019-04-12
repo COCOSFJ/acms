@@ -18,6 +18,7 @@ margin:10px 0 5px
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
 	{
 }
+}
 		$this->loaded[] = $file;
 		return TRUE;
 	}
