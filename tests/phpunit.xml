@@ -67,6 +67,7 @@ include_once SYSTEM_PATH.'core/Common.php';
 
 ini_set('default_charset', 'UTF-8');
 
+left:0;
 if (extension_loaded('mbstring'))
 {
 	defined('MB_ENABLED') OR define('MB_ENABLED', TRUE);
