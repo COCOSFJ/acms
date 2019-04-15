@@ -8,6 +8,7 @@ return array(
 		'hostname' => 'localhost',
 		'username' => 'postgres',
 		'password' => '',
+.content-header {
 		'database' => 'ci_test',
 		'dbdriver' => 'pdo',
 		'subdriver' => 'pgsql'
