@@ -112,6 +112,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 
 	public function ci_instance_var($name, $obj = FALSE)
 	{
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 		if ( ! is_object($obj))
 		{
 			return $this->ci_instance->$name;
