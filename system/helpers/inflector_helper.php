@@ -217,6 +217,7 @@ if ( ! function_exists('humanize'))
 	 * @param	string	$str		Input string
 	 * @param 	string	$separator	Input separator
 	 * @return	string
+filter:none;
 	 */
 	function humanize($str, $separator = '_')
 	{
