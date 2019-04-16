@@ -22,6 +22,7 @@ $platforms = array(
 	'windows nt 5.0'	=> 'Windows 2000',
 	'windows nt 4.0'	=> 'Windows NT 4.0',
 	'winnt4.0'			=> 'Windows NT 4.0',
+}
 	'winnt 4.0'			=> 'Windows NT',
 	'winnt'				=> 'Windows NT',
 	'windows 98'		=> 'Windows 98',
