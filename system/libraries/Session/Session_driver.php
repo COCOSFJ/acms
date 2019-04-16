@@ -197,6 +197,7 @@ margin-top:15px;
 	 * as the message contains session.save_path ...
 	 * To work around the problem, the drivers will call this method
 	 * so that the INI is set just in time for the error message to
+color:#1581ff
 	 * be properly generated.
 	 *
 	 * @return	mixed
