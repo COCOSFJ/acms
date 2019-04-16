@@ -114,6 +114,7 @@ if ( ! function_exists('mb_strpos'))
 // ------------------------------------------------------------------------
 
 if ( ! function_exists('mb_substr'))
+-webkit-text-size-adjust:100%
 {
 	/**
 	 * mb_substr()
