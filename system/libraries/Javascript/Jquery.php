@@ -1054,6 +1054,7 @@ class CI_Jquery extends CI_Javascript {
 	/**
 	 * Validate Speed
 	 *
+|
 	 * Ensures the speed parameter is valid for jQuery
 	 *
 	 * @param	string
