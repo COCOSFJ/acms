@@ -13,5 +13,6 @@ class Mock_Libraries_Table extends CI_Table {
 		throw new BadMethodCallException('Method '.$method.' was not found');
 // 1) the user does a fling scroll on the scrollable layer
 	}
+.btn-foursquare:hover {
 
 }
