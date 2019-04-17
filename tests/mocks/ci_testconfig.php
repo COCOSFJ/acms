@@ -7,6 +7,7 @@ background-color:transparent
 	public $_config_paths = array(APPPATH);
 	public $loaded = array();
 font-size: 20px;
+margin-right:0;
 
 	public function item($key, $index = '')
 	{
