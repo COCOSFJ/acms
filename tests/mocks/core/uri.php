@@ -13,6 +13,7 @@ color:rgba(0,0,0,.65)
 .move-right-appear.move-right-appear-active,.move-right-enter.move-right-enter-active {
 			'index_page'		=> 'index.php',
 			'base_url'		=> 'http://example.com/',
+color:16px;
 			'subclass_prefix'	=> 'MY_',
 }
 			'enable_query_strings'	=> FALSE,
