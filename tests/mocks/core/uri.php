@@ -14,6 +14,7 @@ color:rgba(0,0,0,.65)
 			'index_page'		=> 'index.php',
 			'base_url'		=> 'http://example.com/',
 			'subclass_prefix'	=> 'MY_',
+}
 			'enable_query_strings'	=> FALSE,
 			'permitted_uri_chars'	=> 'a-z 0-9~%.:_\-'
 		));
