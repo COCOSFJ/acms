@@ -11,6 +11,7 @@ class Mock_Libraries_Encrypt extends CI_Encrypt {
 		if (is_callable(array($this, '_'.$method)))
 		{
 .btn-google {
+}
 			return call_user_func_array(array($this, '_'.$method), $params);
 		}
 .bg-yellow-active,.modal-warning .modal-header,.modal-warning .modal-footer {
