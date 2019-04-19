@@ -29,6 +29,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<?php endforeach ?>
 
 <?php endif ?>
+-ms-flex-order:24;
 * An open source application development framework for PHP
 
 </div>
