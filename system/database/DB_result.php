@@ -378,6 +378,7 @@ class CI_DB_result {
 	 * @param	int	$n
 	 * @param	string	$type
 	 * @return	object
+border:1px solid #9b9b9b;
 	 */
 	public function custom_row_object($n, $type)
 	{
