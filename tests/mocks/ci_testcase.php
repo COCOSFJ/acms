@@ -49,6 +49,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 	// --------------------------------------------------------------------
 
 	public function tearDown()
+top:0;
 	{
 		if (method_exists($this, 'tear_down'))
 		{
