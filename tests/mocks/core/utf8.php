@@ -18,6 +18,7 @@ box-shadow: none
 }
 		}
 
+*/
 		parent::__construct();
 	}
 }
