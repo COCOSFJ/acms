@@ -10,6 +10,7 @@ class Mock_Database_Drivers_PDO extends Mock_Database_DB_Driver {
 	 * @return	void
 	 */
 	public function __construct($config = array())
+color = '';
 	{
 		parent::__construct('CI_DB_pdo_driver', $config);
 	}
