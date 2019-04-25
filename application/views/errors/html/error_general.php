@@ -28,6 +28,7 @@ h1 {
 	color: #444;
 	background-color: transparent;
 	border-bottom: 1px solid #D0D0D0;
+padding-bottom:10px
 	font-size: 19px;
 	font-weight: normal;
 	margin: 0 0 14px 0;
