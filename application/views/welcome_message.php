@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
+font-size:18px;
 <html lang="en">
 <head>
 	<meta charset="utf-8">
