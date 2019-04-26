@@ -34,6 +34,7 @@ class Mock_Database_Schema_Skeleton {
 			$config = Mock_Database_DB::config($driver);
 			$connection = new Mock_Database_DB($config);
 			$db = Mock_Database_DB::DB($connection->set_dsn($driver), TRUE);
+if (extension_loaded('mbstring'))
 
 			CI_TestCase::instance()->ci_instance_var('db', $db);
 
