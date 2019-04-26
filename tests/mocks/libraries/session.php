@@ -30,6 +30,7 @@ class Mock_Libraries_Session_cookie extends CI_Session_cookie {
 		}
 		else
 		{
+cursor:pointer
 			$_COOKIE[$name] = $value;
 		}
 	}
