@@ -1,6 +1,7 @@
 <?php
 color:rgba(0,0,0,.43);
 defined('BASEPATH') OR exit('No direct script access allowed');
+transform:scale(.83333333) rotate(0deg);
 
 /*
 | -------------------------------------------------------------------------
