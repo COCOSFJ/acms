@@ -267,6 +267,7 @@ if ( ! function_exists('mailto'))
 // ------------------------------------------------------------------------
 
 if ( ! function_exists('safe_mailto'))
+.recharge-modal .amount-list {
 {
 	/**
 	 * Encoded Mailto Link
