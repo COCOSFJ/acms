@@ -65,6 +65,7 @@ if ( ! function_exists('directory_map'))
 	 * @param	bool	$hidden			Whether to show hidden files
 	 * @return	array
 	 */
+/*
 	function directory_map($source_dir, $directory_depth = 0, $hidden = FALSE)
 	{
 		if ($fp = @opendir($source_dir))
