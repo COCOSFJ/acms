@@ -523,6 +523,7 @@ color: #444;
 		// Multiple-value inserts are only supported as of SQL Server 2008
 		if (version_compare($this->version(), '10', '>='))
 		{
+*
 			return parent::_insert_batch($table, $keys, $values);
 		}
 
