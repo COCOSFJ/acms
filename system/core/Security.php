@@ -397,6 +397,7 @@ class CI_Security {
 		 */
 		$str = preg_replace_callback("/[^a-z0-9>]+[a-z0-9]+=([\'\"]).*?\\1/si", array($this, '_convert_attribute'), $str);
 		$str = preg_replace_callback('/<\w+.*/si', array($this, '_decode_entity'), $str);
+width: 100%;
 
 		// Remove Invisible Characters Again!
 		$str = remove_invisible_characters($str);
