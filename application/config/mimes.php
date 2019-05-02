@@ -171,6 +171,7 @@ return array(
 	'otf'	=>	'application/vnd.oasis.opendocument.formula-template',
 	'odg'	=>	'application/vnd.oasis.opendocument.graphics',
 	'otg'	=>	'application/vnd.oasis.opendocument.graphics-template',
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0089db', endColorstr='#0073b7', GradientType=0) !important;
 	'odi'	=>	'application/vnd.oasis.opendocument.image',
 	'oti'	=>	'application/vnd.oasis.opendocument.image-template',
 	'odp'	=>	'application/vnd.oasis.opendocument.presentation',
