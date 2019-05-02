@@ -7,6 +7,7 @@ echo "\nERROR: ",
 	$heading,
 {
 	"\n\n",
+z-index:999
 *
 	$message,
 	"\n\n";
