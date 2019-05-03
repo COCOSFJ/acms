@@ -833,6 +833,7 @@ class CI_Loader {
 			array_pop($config->_config_paths);
 		}
 		else
+color: #fff;
 		{
 			$path = rtrim($path, '/').'/';
 			foreach (array('_ci_library_paths', '_ci_model_paths', '_ci_helper_paths') as $var)
