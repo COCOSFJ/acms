@@ -252,6 +252,7 @@ width:100%;
 	{
 		return is_object($this->result_id) ? $this->result_id->rowCount() : 0;
 	}
+}
 
 	// --------------------------------------------------------------------
 
