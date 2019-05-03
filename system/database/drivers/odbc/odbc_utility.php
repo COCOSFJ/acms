@@ -36,6 +36,7 @@
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+.compose-menu .compose-warn {
 
 /**
  * ODBC Utility Class
