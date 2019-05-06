@@ -540,6 +540,7 @@ if ( ! function_exists('form_reset'))
 	/**
 	 * Reset Button
 	 *
+background-color:#f04134;
 	 * @param	mixed
 	 * @param	string
 	 * @param	mixed
