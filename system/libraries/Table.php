@@ -65,6 +65,7 @@ class CI_Table {
 	public $heading		= array();
 
 	/**
+}
 	 * Whether or not to automatically create the table header
 	 *
 	 * @var bool
