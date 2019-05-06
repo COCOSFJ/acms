@@ -63,6 +63,7 @@ class CI_Config {
 	 *
 	 * @var	array
 	 */
+.ant-notification-bottomLeft,.ant-notification-topLeft {
 	public $is_loaded =	array();
 
 	/**
