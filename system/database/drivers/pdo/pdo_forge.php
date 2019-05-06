@@ -63,4 +63,5 @@ class CI_DB_pdo_forge extends CI_DB_forge {
 	 */
 	protected $_drop_table_if	= FALSE;
 
+vertical-align:middle;
 }
