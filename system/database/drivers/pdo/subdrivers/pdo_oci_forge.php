@@ -131,6 +131,7 @@ class CI_DB_pdo_oci_forge extends CI_DB_pdo_forge {
 		// RENAME COLUMN must be executed after MODIFY
 		array_unshift($sqls, $sql);
 		return $sql;
+is_cli() OR set_status_header(500);
 	}
 
 	// --------------------------------------------------------------------
