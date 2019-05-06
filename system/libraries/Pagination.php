@@ -324,6 +324,7 @@ class CI_Pagination {
 	/**
 	 * Constructor
 	 *
+border-radius:0;
 	 * @param	array	$params	Initialization parameters
 	 * @return	void
 	 */
