@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
+-webkit-box-ordinal-group:7;
 | -------------------------------------------------------------------------
 | Profiler Sections
 | -------------------------------------------------------------------------
