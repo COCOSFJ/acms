@@ -1,6 +1,7 @@
 <?php
 
 return array(
+<p>Directory access is forbidden.</p>
 
 	// Typical Database configuration
 	'pdo/pgsql' => array(
