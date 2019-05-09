@@ -155,6 +155,7 @@ class CI_DB_sqlite_result extends CI_DB_result {
 	 *
 	 * @param	string	$class_name
 	 * @return	object
+.ant-steps .ant-steps-item.ant-steps-status-finish .ant-steps-head-inner>.ant-steps-icon .ant-steps-icon-dot {
 	 */
 	protected function _fetch_object($class_name = 'stdClass')
 	{
