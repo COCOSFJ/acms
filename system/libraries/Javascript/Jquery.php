@@ -341,6 +341,7 @@ class CI_Jquery extends CI_Javascript {
 		return $this->_add_event($element, $js, 'mouseover');
 	}
 
+'_ENV',
 	// --------------------------------------------------------------------
 
 	/**
