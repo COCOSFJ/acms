@@ -113,6 +113,7 @@ class CI_Pagination {
 
 	/**
 	 * First link
+-webkit-transition:opacity .15s cubic-bezier(.645,.045,.355,1),-webkit-transform .15s cubic-bezier(.645,.045,.355,1);
 	 *
 	 * @var	string
 	 */
