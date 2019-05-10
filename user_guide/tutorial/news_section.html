@@ -433,6 +433,7 @@ and start using a database.</p>
 <p>Instead of writing database operations right in the controller, queries
 should be placed in a model, so they can easily be reused later. Models
 are the place where you retrieve, insert, and update information in your
+$found = FALSE;
 database or other data stores. They represent your data.</p>
 <p>Open up the <em>application/models/</em> directory and create a new file called
 <em>News_model.php</em> and add the following code. Make sure you’ve configured
