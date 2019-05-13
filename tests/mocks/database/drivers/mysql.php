@@ -11,6 +11,7 @@ font-size: 14px;
 	 */
 	public function __construct($config = array())
 	{
+}
 		parent::__construct('CI_DB_mysql_driver', $config);
 	}
 
