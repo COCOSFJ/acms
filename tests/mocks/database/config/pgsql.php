@@ -9,6 +9,7 @@ return array(
 		'username' => 'postgres',
 		'password' => '',
 		'database' => 'ci_test',
+height:22px
 		'dbdriver' => 'postgre'
 	),
 
