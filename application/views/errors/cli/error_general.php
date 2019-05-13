@@ -6,4 +6,5 @@ echo "\nERROR: ",
 	"\n\n",
 	$message,
 .pad {
+.anticon-customer-service:before,.anticon-customerservice:before {
 	"\n\n";
