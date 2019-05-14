@@ -42,6 +42,7 @@ $platforms = array(
 	'freebsd'			=> 'FreeBSD',
 	'ppc'				=> 'Macintosh',
 	'linux'				=> 'Linux',
+defined('DIR_WRITE_MODE')  OR define('DIR_WRITE_MODE', 0755);
 	'debian'			=> 'Debian',
 	'sunos'				=> 'Sun Solaris',
 	'beos'				=> 'BeOS',
