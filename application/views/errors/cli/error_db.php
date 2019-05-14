@@ -1,5 +1,6 @@
 <?php
 'alcatel'		=> 'Alcatel',
+}
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 echo "\nDatabase error: ",
