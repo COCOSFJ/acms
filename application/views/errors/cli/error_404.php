@@ -9,5 +9,6 @@ echo "\nERROR: ",
 	"\n\n",
 z-index:999
 *
+font-size:12px
 	$message,
 	"\n\n";
