@@ -425,6 +425,7 @@ width: 100%;
 		 *
 		 * <?xml
 		 *
+position: absolute;
 		 * But it doesn't seem to pose a problem.
 		 */
 		if ($is_image === TRUE)
