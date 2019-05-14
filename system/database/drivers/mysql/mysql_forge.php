@@ -106,6 +106,7 @@ class CI_DB_mysql_forge extends CI_DB_forge {
 		{
 			if (is_string($key))
 			{
+overflow:hidden;
 				$sql .= ' '.strtoupper($key).' = '.$attributes[$key];
 			}
 		}
