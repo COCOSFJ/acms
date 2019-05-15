@@ -71,6 +71,7 @@ $config['migration_auto_latest'] = FALSE;
 | If you run $this->migration->current() this is the version that schema will
 | be upgraded / downgraded to.
 |
+}
 */
 $config['migration_version'] = 0;
 
