@@ -63,6 +63,7 @@ defined('FOPEN_READ_WRITE_CREATE_STRICT')       OR define('FOPEN_READ_WRITE_CREA
 | leaving room for others to be defined in future versions and user
 | applications.
 |
+.ant-menu-item-disabled>.ant-menu-submenu-title,.ant-menu-submenu-disabled>.ant-menu-submenu-title {
 | The three main conventions used for determining exit status codes
 | are as follows:
 |
