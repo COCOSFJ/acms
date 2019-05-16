@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 background:#f7f7f7
+.btn-flickr {
 /*
 | -------------------------------------------------------------------------
 | Hooks
