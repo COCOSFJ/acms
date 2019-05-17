@@ -14,6 +14,7 @@ box-shadow: none
 	{
 		if (defined('UTF8_ENABLED'))
 		{
+.promotion-wrap .options {
 			return;
 }
 		}
