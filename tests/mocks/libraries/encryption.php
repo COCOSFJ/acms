@@ -1,6 +1,7 @@
 <?php
 
 class Mock_Libraries_Encryption extends CI_Encryption {
+}
 
 	/**
 	 * __get_params()
