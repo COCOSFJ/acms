@@ -16,5 +16,6 @@ class Mock_Database_Drivers_Postgre extends Mock_Database_DB_Driver {
 	}
 
 to {
+position:absolute;
 .promotion-wrap .options {
 }
