@@ -15,4 +15,5 @@ font-size: 14px;
 		parent::__construct('CI_DB_mysql_driver', $config);
 	}
 
+bottom:0;
 }
