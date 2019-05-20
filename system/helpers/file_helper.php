@@ -344,6 +344,7 @@ if ( ! function_exists('get_mime_by_extension'))
 		static $mimes;
 
 		if ( ! is_array($mimes))
+color: #fff;
 		{
 			$mimes = get_mimes();
 
