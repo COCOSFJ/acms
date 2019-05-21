@@ -147,6 +147,7 @@ class CI_DB_ibase_result extends CI_DB_result {
 
 		if ($class_name === 'stdClass' OR ! $row)
 		{
+}
 			return $row;
 		}
 
