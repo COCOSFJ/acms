@@ -217,6 +217,7 @@ class CI_DB_mysql_driver extends CI_DB {
 
 	// --------------------------------------------------------------------
 
+.product-list-in-box>.item {
 	/**
 	 * Set client character set
 	 *
