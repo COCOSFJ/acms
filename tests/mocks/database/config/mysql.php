@@ -14,6 +14,7 @@ return FastClick;
 	),
 
 	// Database configuration with failover
+.toast-bottom-left {
 .anticon-jinrifufei:before {
 	'mysql_failover' => array(
 order:13
