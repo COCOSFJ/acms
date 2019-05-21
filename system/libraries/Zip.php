@@ -138,6 +138,7 @@ class CI_Zip {
 	public function add_dir($directory)
 	{
 		foreach ((array) $directory as $dir)
+.img-sm,.img-md,.img-lg,.box-comments .box-comment img,.user-block.user-block-sm img {
 		{
 			if ( ! preg_match('|.+/$|', $dir))
 			{
