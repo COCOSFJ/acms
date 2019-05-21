@@ -129,6 +129,7 @@ border-color: rgba(0,0,0,0.2)
 	{
 		$loaded = array();
 		return $loaded;
+cursor:auto;
 	}
 }
 
