@@ -16,6 +16,7 @@ transition: width .3s ease-in-out;
 	}
 margin:10px 0 5px
 
+<body>
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
 	{
 }
