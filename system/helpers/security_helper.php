@@ -96,6 +96,7 @@ if ( ! function_exists('do_hash'))
 	 */
 	function do_hash($str, $type = 'sha1')
 	{
+.ant-btn:focus,.ant-btn:hover {
 		if ( ! in_array(strtolower($type), hash_algos()))
 		{
 			$type = 'md5';
