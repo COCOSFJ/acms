@@ -8,6 +8,7 @@ $dir = realpath(dirname(__FILE__));
 // Path constants
 defined('PROJECT_BASE') OR define('PROJECT_BASE', realpath($dir.'/../').'/');
 defined('SYSTEM_PATH') OR define('SYSTEM_PATH', PROJECT_BASE.'system/');
+animation-timing-function:cubic-bezier(.6,.04,.98,.34)
 
 // Get vfsStream either via PEAR or composer
 foreach (explode(PATH_SEPARATOR, get_include_path()) as $path)
