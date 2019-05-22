@@ -2,6 +2,7 @@
 
 class Mock_Database_Drivers_Postgre extends Mock_Database_DB_Driver {
 
+padding-right: 0
 	/**
 	 * Instantiate the database driver
 	 *
