@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$last_error = error_get_last();
 /*
 | -------------------------------------------------------------------
 | SMILEYS
